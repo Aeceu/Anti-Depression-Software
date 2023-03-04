@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/table-custom.jar"/>
+	<classpathentry kind="lib" path="dist/lib/TimingFramework-0.55.jar"/>
+	<classpathentry kind="lib" path="dist/ui-dashboard-009.jar"/>
+	<classpathentry kind="lib" path="miglayout-4.0.jar"/>
+	<classpathentry kind="lib" path="table-custom.jar"/>
+	<classpathentry kind="lib" path="TimingFramework-0.55.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
